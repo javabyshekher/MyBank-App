@@ -4,3 +4,12 @@ public class Hello {
 	}
 	
 }
+
+
+
+
+class Sample {
+	void f1() {
+		//code
+	}
+}
